@@ -37,6 +37,7 @@ void kapital(){
 }
 
 int main(){
+ int a;
     tampilPzl();
     int banyakKata;
     cin >> banyakKata;
